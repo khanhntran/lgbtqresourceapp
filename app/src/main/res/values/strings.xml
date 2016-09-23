@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">LGBTQ @ UVA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_maps">Bathroom Map</string>
+    <string name="title_activity_event">Events</string>
+    <string name="title_activity_resource">Resources</string>
+    <string name="title_activity_business">Businesses</string>
+    <string name="title_activity_suggestion">Suggestions</string>
+    <string name="title_activity_policy">Know Your Rights</string>
+
+    <string name="link_text_uva">Report an Incident at UVA</string>
+    <string name="link_text_cville">Report an Incident in Charlottesville</string>
+
+    <string name="uva_policy">The University of Virginia does not discriminate on the basis of age, color, disability, gender identity, marital status, national or ethnic origin, political affiliation, race, religion, sex (including pregnancy), sexual orientation, veteran status, and family and genetic information, in its programs and activities as required by Title IX of the Education Amendments of 1972, the Americans with Disabilities Act of 1990, as amended, Section 504 of the Rehabilitation Act of 1973, Titles VI and VII of the Civil Rights Act of 1964, the Age Discrimination Act of 1975, the Governor’s Executive Order Number One (2014), and other applicable statutes and University policies.
+        \n\n<b>The University of Virginia prohibits sexual and gender-based harassment, including sexual assault, and other forms of inter-personal violence.</b>
+        \n\nThe following person has been designated to handle inquiries regarding the American with Disabilities Act, the Rehabilitation Act, and related statutes and regulations:
+        \nMelvin Mallory, ADA Coordinator, Office of Equal Opportunity Programs, P.O. Box 400219, Washington Hall, Charlottesville, VA 22904, (434) 924-3295, ADACoordinator@virginia.edu.
+        \n\nThe following person has been designated to handle inquiries regarding non-discrimination policies:
+        \nCatherine Spear, Assistant Vice President, Office of Equal Opportunity Programs, P.O. Box 400219, Washington Hall, Charlottesville, VA 22904, (434) 924-3200, UVaEOP@virginia.edu.
+        \n\nThe following person has been designated to serve as the overall coordinator for purposes of Title IX compliance:
+        \nKelley B. Hodge, Title IX Coordinator, Madison Hall, First Floor, Room 101, (434) 297-7643, TitleIXCoordinator@virginia.edu.
+        \n\nThe following people have been designated as Deputy Title IX Coordinator:
+        \nAkia Haynes, Madison Hall, First Floor, Room 101, (434) 924-1696, aah6n@virginia.edu
+        \nChristopher Tate, Madison Hall, First Floor, Room 101, (434) 924-7339, crt2b@virginia.edu
+        \n\nComplaints of discrimination, harassment, and retaliation may be directed to the Office of Equal Opportunity Programs at UVaEOP@virginia.edu. Complaint procedures may be found at www.virginia.edu/eop/complaint.html. Complaints may also be filed with the Department of Education Office for Civil Rights, Equal Employment Opportunity Commission, Commonwealth of Virginia Division of Human Rights, and the Department of Human Resources Management.
+    </string>
+
+    <string name="cville_policy"><b>Charlottesville\'s Human Rights Ordinance Provides That</b>
+        \nIt shall be unlawful and a violation of this article for any person, partnership, corporation or other entity to engage in discrimination in housing, employment, public accommodations, credit, and education on the basis of race, color, religion, sex, pregnancy, childbirth or related medical conditions, national origin, age, marital status or disability.
+        \n\nUnder the Human Rights Ordinance, the term "unlawful discriminatory practice" includes conduct in violation of any comparable Virginia or federal statute or regulation governing unlawful discrimination.
+        \n\n<b>Complaints Of Discrimination Based On Sexual Orientation/Gender Identity</b>
+        \nCharlottesville’s Human Rights Ordinance provides that "’discrimination on the basis of sex’ is defined to include, but not be limited to, discrimination on the basis of gender identity, transgender status or sexual orientation."
+        \n\nVirginia law does not include discrimination based on LGBTQ status within its definition of "on the basis of sex." In enacting the Ordinance, the City of Charlottesville desired to be fully inclusive, in anticipation of a time when federal and state law will recognize LGBTQ status as protected from unlawful discrimination.
+        \n\nWith the understanding that the powers of the Commission to address this type of complaint are currently limited, if you believe your gender identity, transgender status or sexual orientation formed the basis for discriminatory treatment you received within the City of Charlottesville, you are invited to contact the Human Rights Office by calling 434-970-2023 or emailing humanrights@charlottesville.org.
+    </string>
+
+    <string name="title_9"><b>Title IX</b>
+        \nThe U.S. Department of Education’s Office for Civil Rights (OCR) enforces, among other statutes, Title IX of the Education Amendments of 1972. Title IX protects people from discrimination based on sex in education programs or activities that receive Federal financial assistance. Title IX states that:
+        \n\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.
+        \n\n<b>Scope of Title IX</b>
+        \nTitle IX applies to institutions that receive federal financial assistance from ED, including state and local educational agencies. These agencies include approximately 16,500 local school districts, 7,000 postsecondary institutions, as well as charter schools, for-profit schools, libraries, and museums. Also included are vocational rehabilitation agencies and education agencies of 50 states, the District of Columbia, and territories and possessions of the United States.
+        \n\nEducational programs and activities that receive ED funds must operate in a nondiscriminatory manner. Some key issue areas in which recipients have Title IX obligations are: recruitment, admissions, and counseling; financial assistance; athletics; sex-based harassment; treatment of pregnant and parenting students; discipline; single-sex education; and employment. Also, a recipient may not retaliate against any person for opposing an unlawful educational practice or policy, or made charges, testified or participated in any complaint action under Title IX. For a recipient to retaliate in any way is considered a violation of Title IX. The ED Title IX regulations  (Volume 34, Code of Federal Regulations, Part 106) provide additional information about the forms of discrimination prohibited by Title IX.
+        \n\n<b>OCR’s Enforcement of Title IX</b>
+        \nOCR vigorously enforces Title IX to ensure that institutions that receive federal financial assistance from ED comply with the law. OCR evaluates, investigates, and resolves complaints alleging sex discrimination. OCR also conducts proactive investigations, called compliance reviews, to examine potential systemic violations based on sources of information other than complaints.
+        \n\nIn addition to its enforcement activities, OCR provides technical assistance and information and guidance to schools, universities and other agencies to assist them in voluntarily complying with the law. OCR’s Title IX Resource Guide download files PDF (501K) is a useful tool for schools and their Title IX coordinators to understand schools’ obligations under Title IX.
+        \n\nFor assistance related to Title IX or other civil rights laws, please contact OCR at OCR@ed.gov or 800-421-3481, TDD 800-877-8339.
+    </string>
+
+    <string name="OGres"><b>On-Grounds Housing Accommodations</b>
+        \nStudents with unique concerns that would like to receive information about the options available in on-grounds housing should contact the Assistant Director of Assignments (Countess Hughes) at cmh8sc@virginia.edu or 434-924-3314 for assistance.
+        \n\n<b>HELPLine: 295-TALK</b>
+        \nHELPLine is an anonymous, confidential telephone service serving the residents of Charlottesville, Albemarle County and the University of Virginia. We are a student-run, student-operated program, staffed entirely of volunteers, affiliated with Madison House. Visit the HELPLine website for more info.
+        \n\n<b>Trans Lifeline: (877) 565-8860</b>
+        \nTrans Lifeline is a non-profit hotline staffed by transgender volunteers for transgender people who are experiencing difficulty or crisis.
+        \n\n<b>Men\’s Gay/Bi and Questioning Support Group</b>
+        \nThis is a support group for men who want to become more comfortable within themselves, and with their sexuality. Members of the group include those who are fully out to others, those who are out to only a few chosen people, and those who are only just coming out to themselves. The group provides a confidential and safe space in which gay, bisexual, and questioning men may pose questions regarding sexuality, and discuss issues related to societal and personal values, relationships, choices, self-esteem, and self-care. A pre-group screening with the facilitator is required to join this group.
+        \n\n<b>Women’s Center Counseling Services</b>
+        \nSince 1990, the Women’s Center has offered individual, couples, and group counseling services to University of Virginia students, faculty, and staff, as well as to members of the Charlottesville community. Counseling is offered for both men and women individually, as well as couples. The Women’s Center offers free and confidential support groups for UVa students, faculty, staff and Charlottesville community members. For more information and participation, call 434-982-2361.
+        \n\n<b>University of Virginia Career Center – Diversity Resources</b>
+        \nUniversity Career Services (UCS) provides guidance and resources to a diverse student body for the attainment of students’ career-related goals.
+    </string>
+
+    <string name="CVres"><b>ROSMY</b>
+        \nYouth Support Hotline: 888 644-4390
+        \nPhone: 804 644-4800
+        \nROSMY Blue Ridge: 434-987-8975
+        \nEmail: rosmy@rosmy.org
+        \n\nFounded in 1991 in Richmond, Virginia, ROSMY’s mission is to ensure equal opportunities for success for Virginia’s lesbian, gay, bisexual, transgender, and questioning (LGBTQ) youth through access to support, education, and advocacy. ROSMY continues to be the only organization in the area that directly addresses the unique needs and the healthy social development of LGBTQ youth ages 11-20. It offers weekly youth support meetings, sensitivity training for professionals, educational resources, youth leadership initiatives, and a safe place where all youth are encouraged to value the diverse individuals who make our community a dynamic, exceptional place.
+        \n\n<b>Charlottesville Pride Community Network</b>
+        \nCharlottesville Pride Community Network exists to create a vibrant, visible, and unified LGBTQ community presence in Charlottesville and its surrounding region that promotes equality and integrates groups and individuals through events, outreach, resource-sharing, networking, and communications initiatives.
+        \n\n<b>Charlottesville Free Clinic</b>
+        \n1138 Rose Hill Drive, Suite 200 Charlottesville, VA 22903
+        \nMedical Phone Number: 434-296-5525
+        \nDental Phone Number: 434-972-6233
+        \nPharmacy Phone Number: 434-296-5525
+        \n\nThe Charlottesville Free Clinic is a nonprofit, 501(c)(3) founded in 1992 by Dr. Mohan Nadkarni and Dr. Paul DeMarco during their residencies at UVA Hospital to provide a health support system that offers high-quality and compassionate care to the low-income underserved in our community, who would otherwise not have access to care and who would otherwise suffer needlessly from many routine and preventable medical conditions. We offer free medical care, dental care, and medications for low-income underserved adults between the ages of 19-64 and their families in and around Charlottesville. Out of the 60 free clinics in Virginia in 2011, the CFC is one of only 15 to receive accreditation from the Virginia Association of Free Clinics.
+    </string>
+
+    <string name="Medres"><b>Counseling and Psychological Services</b>
+        \nLocation: Student Health Center, 400 Brandon Avenue
+        \nDaytime Phone (Monday – Friday): 434-243-5150
+        \nAfter Hours and Weekend Crisis Assistance: 434-972-7004
+        \n\nThe U.Va. Department of Student Health, Harrison Bowne "Tersh" Smith Jr., Memorial Center for Counseling and Psychological Services (CAPS) is the University of Virginia\'s primary student counseling clinic. Our mission is to be responsive to the mental health needs of U.Va. students while also providing consultation, education, outreach and crisis management to the broader U.Va. community.
+        \n\n<b>General Medicine in Student Health</b>
+        \nLocation: Student Health Center, 400 Brandon Avenue
+        \nDaytime Phone (Monday – Friday): 434-972-3915
+        \n\nWe are here to provide you with high-quality, accessible medical care to optimize your health and personal success. Our staff is experienced in addressing the health concerns common to students and we strive to stay abreast of emerging issues. We will make every effort to streamline your care for the most efficient use of your time and financial resources. When specialty care is necessary for your condition, we will coordinate your referral to an appropriate health care setting and clinician. We hope that you will access our clinic for your health care needs and concerns.
+        \n\n<b>Teen and Young Adult Health Center</b>
+        \nBattle Building 1204 W. Main St. Charlottesville, VA 22903
+        \nDaytime Phone (Monday - Friday): 434.982.0090
+        \n\nThe Teen and Young Adult Health Center is a primary care center for teenagers and young adults ages 12-24. Our team is specially trained to work with adolescents and help young adults with the unique challenges they face.
+        \n\nYou can come to your appointment alone or bring your parents with you.
+        \nWhen possible, we\'ll respect your wishes to keep your care private. But we also believe it\'s important to include your mother, father or an adult you trust when you\'re making important decisions. We can help you find ways to talk to adults about tough decisions.
+    </string>
+
+    <string name = "BusinessDining">
+        <b>Escafe</b>
+        \n215 West Water St
+        \n434-295-8668
+        \nhttp://www.escafe.com/
+        \n\n<b>Fellini\'s #9</b>
+        \n200 W Market St
+        \n434-979-4279
+        \nhttp://www.fellinis9.com/
+        \n\n<b>MarieBette Cafe and Bakery</b>
+        \n700 Rose Hill Drive
+        \n434-529-6118
+        \nhttp://mariebette.com/
+        \n\n<b>Blue Moon Diner</b>
+        \n512 W. Main St
+        \n434-980-6666
+        \nhttp://www.bluemoondiner.net/
+        \n\n<b>Grit Coffee</b>
+        \n19 Elliewood Ave
+        \n434-293-4412
+        \nhttp://www.gritcoffee.com/
+        \n\n<b>Twisted Branch Tea Bazaar</b>
+        \n414 E Main St
+        \n434-293-9947
+        \nhttp://www.teabazaar.com/
+    </string>
+
+    <string name = "BusinessServices">
+        <b>Edgecomb\'s Imported Auto</b>
+        \n2005 Avon Ct
+        \n434-295-1570
+        \nhttp://www.edgecombs.com/
+        \n\n<b>Tucker Griffin Barnes, P.C.</b>
+        \nAndre Hakes, Attorney at Law
+        \n434-973-7474
+        \nhttp://www.tgblaw.com/
+        \n\n<b>Common Ground Healing Arts</b>
+        \nYoga, Meditation, Massage, Acupuncture, and More
+        \n434-218-7677
+        \nhttp://www.commongroundcville.org/
+        \n\n<b>Body Equilibrium</b>
+        \nChiropractic, Acupuncture, Strength Training, Massage
+        \n434-975-5674
+        \nhttp://bodyequilibriumofcharlottesville.com/
+
+
+    </string>
+
+    <string name = "BusinessOther">
+        <b>Mountain Cove Vineyards</b>
+        \nWeddings and Events
+        \n434-263-5392
+        \nhttp://www.mountaincovevineyards.com/
+        \n\n<b>Wedding Officiant</b>
+        \nDave Norris
+        \n434-242-5165
+        \nhttp://www.letdavemarryyou.com/
+        \n\n<b>Wedding Officiant</b>
+        \nRev. Erik Walker Wikstrom
+        \n434-293-8179
+        \nhttp://www.uucharlottesville.org/
+        \n\n<b>Inn at Court Square</b>
+        \n410 East Jefferson St
+        \n434-295-2800
+        \nhttp://www.innatcourtsquare.com/
+        \n\n<b>Blue Haven Farm and BnB</b>
+        \nWedding Venue
+        \n434-688-4391
+        \nhttp://www.bluehavenfarmandbb.com/
+    </string>
+
+</resources>

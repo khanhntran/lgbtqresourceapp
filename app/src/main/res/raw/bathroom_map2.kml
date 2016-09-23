@@ -1,0 +1,2214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Single Stall &amp; Gender-Neutral Restrooms</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Bathrooms</name>
+			<Placemark>
+				<name>Campbell Hall (School of Architecture)</name>
+				<description><![CDATA[description: Floor 4, near West Edition<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 4, near West Edition</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5041809,38.0387882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gilmer Hall</name>
+				<description><![CDATA[description: Floor 3, not single-stall (but gender-neutral)<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 3, not single-stall (but gender-neutral)</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.51335140000002,38.034316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Open Grounds</name>
+				<description><![CDATA[description: <br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5000932,38.0339632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Open Grounds</name>
+				<description><![CDATA[description: <br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.500045,38.0339442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruffner Hall</name>
+				<description><![CDATA[description: Floor 1<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50945140000002,38.0344807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruffner Hall</name>
+				<description><![CDATA[description: Floor 1<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5095212,38.0345019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McIntire School of Commerce</name>
+				<description><![CDATA[description: Floor 2, hallway to the left of Ruppel entrance<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, hallway to the left of Ruppel entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5035318,38.0328223,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gilmer Hall</name>
+				<description><![CDATA[description: Basement, room #T028, to the left of the stairs leading from the AFC<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Basement, room #T028, to the left of the stairs leading from the AFC</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5132575,38.034263200000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harris Teeter</name>
+				<description><![CDATA[description: At the front of the store, next to the Starbucks<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>At the front of the store, next to the Starbucks</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5046127,38.0498442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McIntire School of Commerce</name>
+				<description><![CDATA[description: Floor 2, hallway to the left of the Ruppel entrance<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, hallway to the left of the Ruppel entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.503564,38.0328012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McIntire School of Commerce</name>
+				<description><![CDATA[description: Floor 3, hallway to the left of Ruppel entrance<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 3, hallway to the left of Ruppel entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5036337,38.0328646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Point 34</name>
+				<description><![CDATA[description: Floor 3, hallway to the left of Ruppel entrance<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 3, hallway to the left of Ruppel entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5036713,38.0328012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bluegrass Grill &amp; Bakery</name>
+				<description><![CDATA[description: At the back on the right side, next to the bakery<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>At the back on the right side, next to the bakery</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.481178,38.028858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guadalajara Mexican Restaurant</name>
+				<description><![CDATA[description: To the right behind the register<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>To the right behind the register</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.51575300000002,38.025707,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guadalajara Mexican Restaurant</name>
+				<description><![CDATA[description: To the right behind the register<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>To the right behind the register</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.51569540000001,38.02570490000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Range Cafe</name>
+				<description><![CDATA[description: In the front room, to the right of the register, next to drink cooler<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>In the front room, to the right of the register, next to drink cooler</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5059404,38.0342293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Range Cafe</name>
+				<description><![CDATA[description: In the front room, to the right of the register, next to drink cooler<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>In the front room, to the right of the register, next to drink cooler</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5059029,38.0342547,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Starbucks</name>
+				<description><![CDATA[description: Floor 1, next to the staircase<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1, next to the staircase</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50088399999999,38.035546,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The 105 Grill &amp; Pub</name>
+				<description><![CDATA[description: Single-stall M bathroom behind bar<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom behind bar</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4994979,38.0345578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The 105 Grill &amp; Pub</name>
+				<description><![CDATA[description: Single-stall W bathroom behind bar<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom behind bar</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4995153,38.0345599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Revolutionary Soup on the Corner</name>
+				<description><![CDATA[description: To the right of the register<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>To the right of the register</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4992426,38.034341,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Revolutionary Soup on the Corner</name>
+				<description><![CDATA[description: To the right of the register<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>To the right of the register</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4992211,38.0343452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bella's Restaurant</name>
+				<description><![CDATA[description: Straight ahead from entrance<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Straight ahead from entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4899627,38.0316923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University of Virginia Law Library</name>
+				<description><![CDATA[description: Floor 2, at the end of the stacks<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, at the end of the stacks</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5090093,38.053286,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University of Virginia Law Library</name>
+				<description><![CDATA[description: Floor 2, at the end of the stacks<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, at the end of the stacks</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5092239,38.0533029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Himalayan Fusion</name>
+				<description><![CDATA[description: Single stall M bathroom in back of restaurant<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single stall M bathroom in back of restaurant</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.478047,38.029619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Himalayan Fusion</name>
+				<description><![CDATA[description: Single stall F bathroom in back of restaurant<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single stall F bathroom in back of restaurant</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.47802270000001,38.0296058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escafe</name>
+				<description><![CDATA[description: Two single-stalls<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Two single-stalls</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.48298390000002,38.0306517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sally Brown Reading Room Hallway</name>
+				<description><![CDATA[description: Enter Sally Brown Reading Room, then go through door on the left into a hallway, bathroom will be on the right inside the hallway<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Enter Sally Brown Reading Room, then go through door on the left into a hallway, bathroom will be on the right inside the hallway</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5073553,38.03447860000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crozet Pizza at the Buddhist Biker Bar</name>
+				<description><![CDATA[description: Single-stall located between kitchen and courtyard in the back<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall located between kitchen and courtyard in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50037800000001,38.036656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kuma Sushi Noodles &amp; Bar</name>
+				<description><![CDATA[description: Single-stall M Bathroom, on main floor in the middle<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M Bathroom, on main floor in the middle</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5001878,38.0361698,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kuma Sushi Noodles &amp; Bar</name>
+				<description><![CDATA[description: Single-stall W Bathroom, on main floor in the middle<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W Bathroom, on main floor in the middle</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.500228,38.0361581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GRIT Coffee</name>
+				<description><![CDATA[description: Single-stall Bathroom on ground floor, in the back<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall Bathroom on ground floor, in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.500163,38.0364761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hack Cville</name>
+				<description><![CDATA[description: Single-stall bathroom on main floor in the main room<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall bathroom on main floor in the main room</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5002857,38.0360108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Virginian</name>
+				<description><![CDATA[description: Single-stall M bathroom in the back<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5007115,38.0352925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Virginian</name>
+				<description><![CDATA[description: Single-stall W bathroom in the back<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5006806,38.03532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newcomb 4th Floor</name>
+				<description><![CDATA[description: On 4th floor near north stairway, single-stall M bathroom<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>On 4th floor near north stairway, single-stall M bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5064353,38.0359553,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Madison House</name>
+				<description><![CDATA[description: Two single-stall bathrooms<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Two single-stall bathrooms</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50193819999998,38.0390023,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brooks Hall</name>
+				<description><![CDATA[description: Single-stall M bathroom in basement<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom in basement</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5020003,38.0357848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brooks Hall</name>
+				<description><![CDATA[description: Single-stall W bathroom in basement<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom in basement</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5020157,38.035743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thomas Jefferson Memorial Church Unitarian Universalist</name>
+				<description><![CDATA[description: Multi-stall M bathroom with gender-inclusive policy<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Multi-stall M bathroom with gender-inclusive policy</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.49886270000002,38.0435487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thomas Jefferson Memorial Church Unitarian Universalist</name>
+				<description><![CDATA[description: Multi-stall W bathroom with gender-inclusive policy<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Multi-stall W bathroom with gender-inclusive policy</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.498724,38.043513700000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The College Inn</name>
+				<description><![CDATA[description: Single-stall M bathroom<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50039880000003,38.0350239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The College Inn</name>
+				<description><![CDATA[description: Single-stall W bathroom<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5004251,38.0349894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milan Indian Cuisine</name>
+				<description><![CDATA[description: Single-stall M bathroom<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4933297,38.06056840000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milan Indian Cuisine</name>
+				<description><![CDATA[description: Single-stall W bathroom<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4932958,38.0606134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Qdoba Mexican Grill</name>
+				<description><![CDATA[description: Single-stall M bathroom<br>Gender: M<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50001250000003,38.0344858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Qdoba Mexican Grill</name>
+				<description><![CDATA[description: Single-stall W bathroom<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4999779,38.0344649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bang</name>
+				<description><![CDATA[description: <br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4830356,38.0297326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bang</name>
+				<description><![CDATA[description: Upstairs to the right side of the stairs<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Upstairs to the right side of the stairs</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4830894,38.0297542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ginkgo Chinese Restaurant</name>
+				<description><![CDATA[description: Single-stall bathroom in the back, near the cash register<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall bathroom in the back, near the cash register</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4987787,38.0344496,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Pau's Memorial Church</name>
+				<description><![CDATA[description: Single stall unisex a bit down the hall when you enter to the right. <br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single stall unisex a bit down the hall when you enter to the right. </value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5015416,38.0364962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Got Dumplingz</name>
+				<description><![CDATA[description: Single stall unisex bathroom behind the register to your left<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single stall unisex bathroom behind the register to your left</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4992329,38.0340207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charlottesville Albemarle Airport</name>
+				<description><![CDATA[description: Single-stall bathroom on 2nd floor near Gate 5<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall bathroom on 2nd floor near Gate 5</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.45160950000002,38.1392317,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Basil Mediterranean Bistro</name>
+				<description><![CDATA[description: Down the hallway straight back from the entrance<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Down the hallway straight back from the entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4995394,38.0346041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Basil Mediterranean Bistro</name>
+				<description><![CDATA[description: Down the hallway straight back from the entrance<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Down the hallway straight back from the entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4995502,38.0346041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roots Natural Kitchen</name>
+				<description><![CDATA[description: Upstairs on the right<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Upstairs on the right</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4991767,38.0339297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mad House</name>
+				<description><![CDATA[description: Upstairs to the right, straight past the pool table<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Upstairs to the right, straight past the pool table</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.49433920000001,38.0414805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mad House</name>
+				<description><![CDATA[description: Upstairs to the right, straight past the pool table<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Upstairs to the right, straight past the pool table</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.494366,38.0414858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiske Kimball Fine Arts Library</name>
+				<description><![CDATA[description: Floor 2, at the top of the staircase to the right<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, at the top of the staircase to the right</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50343450000004,38.0390079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiske Kimball Fine Arts Library</name>
+				<description><![CDATA[description: Floor 2, at the top of the staircase to the right<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, at the top of the staircase to the right</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5034801,38.0390142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Littlejohn's New York Deli</name>
+				<description><![CDATA[description: Two single-stall W bathrooms in the back<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Two single-stall W bathrooms in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50017359999998,38.0347003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Littlejohn's New York Deli</name>
+				<description><![CDATA[description: One single-stall M bathroom in the back<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>One single-stall M bathroom in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5001509,38.0346825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sweethaus</name>
+				<description><![CDATA[description: Single-stall U bathroom<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall U bathroom</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.49240120000002,38.0326652,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Melting Pot</name>
+				<description><![CDATA[description: Two single-stall U bathrooms in the back<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Two single-stall U bathrooms in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.47860029999998,38.02921330000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McLeod Hall</name>
+				<description><![CDATA[description: Floor 2, room 2002<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, room 2002</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50174270000002,38.03074859999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylan Heights</name>
+				<description><![CDATA[description: Single-stall W on 2nd floor<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W on 2nd floor</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.49936360000004,38.03413100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylan Heights</name>
+				<description><![CDATA[description: Single-stall M bathroom on 2nd floor<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom on 2nd floor</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4993368,38.0341132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fry's Spring Station</name>
+				<description><![CDATA[description: Single-stall W bathroom near the entrance<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom near the entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.51491850000002,38.0261888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fry's Spring Station</name>
+				<description><![CDATA[description: Single-stall M bathroom near the entrance<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom near the entrance</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5148916,38.0261867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wild Wing Cafe</name>
+				<description><![CDATA[description: Single-stall U bathroom on ground floor labeled "Hot Chicks & Wild Men"<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall U bathroom on ground floor labeled "Hot Chicks &amp; Wild Men"</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.4919741,38.0314237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Westminster Presbyterian Church (need to check)</name>
+				<description><![CDATA[description: <br>Gender: <br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-FFFFFF</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value></value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.501327,38.039667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Michael's Bistro &amp; Taphouse</name>
+				<description><![CDATA[description: Single-stall W bathroom, up a small set of stairs<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall W bathroom, up a small set of stairs</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5002332,38.034697200000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Michael's Bistro and Taphouse</name>
+				<description><![CDATA[description: Single-stall M bathroom, up a small set of stairs<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall M bathroom, up a small set of stairs</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.500222,38.0347279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wilson Hall</name>
+				<description><![CDATA[description: Floor 2, in the hallways past the couches and study rooms<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, in the hallways past the couches and study rooms</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50418,38.0325377,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rice Hall Information Technology Engineering Building</name>
+				<description><![CDATA[description: Single-stall bathroom and shower on basement floor to left of elevators.<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall bathroom and shower on basement floor to left of elevators.</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5107279,38.0316114,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Costco Wholesale</name>
+				<description><![CDATA[description: Single-stall family bathroom at front of store<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall family bathroom at front of store</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.49014720000002,38.0687609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charlottesville Albemarle SPCA</name>
+				<description><![CDATA[description: Single-stall U bathroom in back of lobby<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall U bathroom in back of lobby</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.47396040000001,38.09272619999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Miso Sweet</name>
+				<description><![CDATA[description: Single-stall U bathroom in the back hallway<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall U bathroom in the back hallway</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.47889220000002,38.0296749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hunter Smith Band Building</name>
+				<description><![CDATA[description: Floor 1<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50340269999998,38.0400416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Pigeon Hole</name>
+				<description><![CDATA[description: At the very back, past all the tables<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>At the very back, past all the tables</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50022890000004,38.036071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruffner Hall</name>
+				<description><![CDATA[description: Floor 2<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5094971,38.0345568,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruffner Hall</name>
+				<description><![CDATA[description: Floor 2<br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5094326,38.0345462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McKim Hall</name>
+				<description><![CDATA[description: Floor 1, opposite Sandridge auditorium<br>Gender: W<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1, opposite Sandridge auditorium</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5005197,38.0320195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Nook</name>
+				<description><![CDATA[description: Two U bathrooms in the back marked "Anyone"<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Two U bathrooms in the back marked "Anyone"</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.47877599999998,38.030083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Campus Cookies</name>
+				<description><![CDATA[description: At front of the store, to the right of the register<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>At front of the store, to the right of the register</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.49904190000001,38.03438829999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alderman Library, West Wing</name>
+				<description><![CDATA[description: Room 584<br>Gender: W<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Room 584</value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50553060863302,38.03664454118615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alderman Library, East Wing</name>
+				<description><![CDATA[description: Room 585<br>Gender: M<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Room 585</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50501562450216,38.03647764931091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clemons Library</name>
+				<description><![CDATA[description: Floor 4, two single-stall bathrooms<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 4, two single-stall bathrooms</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.506085,38.036346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Snyder Tennis Center</name>
+				<description><![CDATA[description: Right inside front door to the left<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Right inside front door to the left</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50653599999998,38.038647,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peabody Hall</name>
+				<description><![CDATA[description: Floor 2, next to elevator<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, next to elevator</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50604599999997,38.035604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel C (Jefferson Hall)</name>
+				<description><![CDATA[description: Basement Level, in the back<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Basement Level, in the back</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50503650000002,38.0352535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Minor Hall</name>
+				<description><![CDATA[description: Room T127, in the hallway to the left of the lecture hall<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Room T127, in the hallway to the left of the lecture hall</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50656637301637,38.033690538607836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University of Virginia: Studies in Women and Gender</name>
+				<description><![CDATA[description: Floor 1<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50641080489352,38.03399898313274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maury Hall</name>
+				<description><![CDATA[description: Floor 2, left of lecture hall<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2, left of lecture hall</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50682699999999,38.033399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gilmer Hall</name>
+				<description><![CDATA[description: Floor 1<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 1</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.513038,38.034259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aquatic &amp; Fitness Center</name>
+				<description><![CDATA[description: Family locker room and showers, between men & women's in basement, ask for key at locker checkout<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Family locker room and showers, between men &amp; women's in basement, ask for key at locker checkout</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.51344399999999,38.032896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brown College at Monroe Hill, Tucker Lounge</name>
+				<description><![CDATA[description: Brown College residents only<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Brown College residents only</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5077571,38.0350741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fine Arts Library</name>
+				<description><![CDATA[description: Floor 2<br>Gender: U<br>Handicap Accessible: ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.5033118724823,38.03774044434038,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Campbell Hall (School of Architecture)</name>
+				<description><![CDATA[description: Floor 2<br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2</value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50423247486879,38.038857024814675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Campbell Hall (School of Architecture)</name>
+				<description><![CDATA[description: Floor 2 <br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Floor 2 </value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50397498280336,38.03878942513052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wesley Foundation</name>
+				<description><![CDATA[description: Single-stall. LGBTQ-friendly space.<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Single-stall. LGBTQ-friendly space.</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.508398,38.037452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jordan Hall</name>
+				<description><![CDATA[description: Room 1006, in lobby<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Room 1006, in lobby</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50037753582001,38.03202373843036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pavilion VIII</name>
+				<description><![CDATA[description: <br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50353717803955,38.03431385453006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Twisted Branch Tea Bazaar</name>
+				<description><![CDATA[description: Two single-stalls<br>Gender: U<br>Handicap Accessible: false]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>Two single-stalls</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.47900300000003,38.029678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Elson Student Health Center</name>
+				<description><![CDATA[description: All bathrooms are single-stall<br>Gender: U<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value>All bathrooms are single-stall</value>
+					</Data>
+					<Data name='Gender'>
+						<value>U</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.503354,38.031633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Art History</name>
+				<description><![CDATA[description: <br>Gender: M<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value>M</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50305044907378,38.03791283826113,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Art History</name>
+				<description><![CDATA[description: <br>Gender: W<br>Handicap Accessible: true]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Gender'>
+						<value>W</value>
+					</Data>
+					<Data name='Handicap Accessible'>
+						<value>1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-78.50299814599799,38.037904388195074,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-4186F0-normal'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-4186F0-highlight'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-4186F0'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-4186F0-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-4186F0-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-7C3592-normal'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-7C3592-highlight'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-7C3592'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-7C3592-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-7C3592-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-EE9C96-normal'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-EE9C96-highlight'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-EE9C96'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-EE9C96-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-EE9C96-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-FFFFFF-normal'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-FFFFFF-highlight'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-FFFFFF'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-FFFFFF-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-FFFFFF-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
