@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
     }

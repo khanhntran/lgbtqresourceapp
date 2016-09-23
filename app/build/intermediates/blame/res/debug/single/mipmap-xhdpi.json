@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
