@@ -1,0 +1,7 @@
+#Thu Sep 22 21:36:37 EDT 2016
+base.0=E\:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a6709d247ee5e8d14483891519360fba258c2df9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e23d29dca8dbc0b317193549fcabb2b6b7507ef\\classes.dex
+base.1=E\:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e23d29dca8dbc0b317193549fcabb2b6b7507ef
+file.0=E\:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a6709d247ee5e8d14483891519360fba258c2df9\\classes.dex

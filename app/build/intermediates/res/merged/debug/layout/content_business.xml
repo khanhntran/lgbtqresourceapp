@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="?attr/colorPrimaryDark">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:background="?attr/colorPrimaryDark"
+        android:paddingBottom="60dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="knt3tb.cs4720.uvalgbtq.BusinessActivity"
+        tools:showIn="@layout/app_bar_business">
+
+        <Button
+            android:id="@+id/DiningButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#1B438E"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="RestaurantButton"
+            android:paddingRight="10dp"
+            android:text="Dining"
+            android:textColor="#fff"
+            android:textSize="16sp" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/DiningButton"
+            android:background="?attr/colorPrimary"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="fastOutLinearIn"
+            app:ael_orientation="vertical"
+            android:autoLink="web">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:scrollbars="vertical"
+                android:text="@string/BusinessDining"
+                android:textColor="#fff" />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        <Button
+            android:id="@+id/ServicesButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/expandableLayout1"
+            android:layout_marginTop="10dp"
+            android:background="#1B438E"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="ShopButton"
+            android:paddingRight="10dp"
+            android:text="Services"
+            android:textColor="#fff"
+            android:textSize="16sp" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ServicesButton"
+            android:background="?attr/colorPrimary"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="fastOutLinearIn"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:scrollbars="vertical"
+                android:text="@string/BusinessServices"
+                android:textColor="#fff" />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        <Button
+            android:id="@+id/OtherButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout2"
+            android:layout_marginTop="10dp"
+            android:background="#1B438E"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="ServicesButton"
+            android:paddingRight="10dp"
+            android:text="Other"
+            android:textColor="#fff"
+            android:textSize="16sp" />
+        <!--1B438E-->
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OtherButton"
+            android:background="?attr/colorPrimary"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="fastOutLinearIn"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:scrollbars="vertical"
+                android:text="@string/BusinessOther"
+                android:textColor="#fff" />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+    </RelativeLayout>
+</ScrollView>
+

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_alpha.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bathroom_map.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\raw\\bathroom_map.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_inline_style.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unknwown_folder.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bathrooms.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\raw\\bathrooms.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ballon_gx_prefix.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bathroom_map2.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\raw\\bathroom_map2.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_folder.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_placemark.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_extended_data.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unsupported.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_cdata.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bathroom_map3.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\raw\\bathroom_map3.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay_color.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_default_balloon.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_document_nest.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_draw_order_ground_overlay.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\uva_policy",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\raw\\uva_policy"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multigeometry_placemarks.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_folders.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_visibility_ground_overlay.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    }
+]
