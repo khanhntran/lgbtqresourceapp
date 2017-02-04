@@ -87,6 +87,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                 .zoom(16)                   // Sets the zoom
                 .build();                   // Creates a CameraPosition from the builder
         mMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
+        //mMap.moveCamera(CameraUpdateFactory.newLatLng(cville));
 
         //Add map data layer
         addLayerFromResource();
@@ -99,6 +100,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         try {
             //<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href> remove these lines from the KML to get the marker colors to show
             KmlLayer bathroomLayer = new KmlLayer(mMap, R.raw.bathroom_map2, getApplicationContext());
+            //KmlLayer bathroomLayer = new KmlLayer(mMap, R.raw.bathrooms, getApplicationContext());
             bathroomLayer.addLayerToMap();
             System.out.println("Added Layer");
 

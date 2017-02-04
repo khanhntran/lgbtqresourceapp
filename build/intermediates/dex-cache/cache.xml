@@ -3,33 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_8605313f4949c3c035ac02aa0b413ec6c49dc463\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_bee947a8f8e8755c245472dd428124a8e80616a7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_ce5656186b44fb61e8ea0f71b051c2c9033a4073\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -39,48 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_58d5bbab7e179871387ac2b045dfe0b8b633f295\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_4385e0abb04cf2eddbaed95f996246df789479c3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
         <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_7e7a7c6d3d319f1361386b6711bf8ca3a417a784\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_a728b7113bc1c68f63801f8488e82d1897922b92\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_a372d1904dacbccaed6940f613c5dc56453d9683\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,15 +57,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_af2064daa968d0b2fb2564fd4ec569dc9cbd82e1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -153,6 +81,159 @@
         revision="23.0.1"
         sha1="9cad249cf62751a323d9af568caf12284b7d6062">
         <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_de14a750a66d3bfa1cfed253e24650f0a6c88131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_e2088a2adace658ba83102ec54907e57721fc77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_4bea6a2e1384c76ac043d30f467ab09b7d37da43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1f27eea0cb8662b4998141d0fab1b48890a6d46">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6709d247ee5e8d14483891519360fba258c2df9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_df5303cc4d2d816f48df626ac5fd8e6fffce13b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9745ff3eb55d07e308d567c3c22b1e4ca19adaf">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e23d29dca8dbc0b317193549fcabb2b6b7507ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_7e6e76bdd67672d3a550739d404702d60116b4cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Khanh\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.1\3dc0a3bea4f876c54846cd050e688f1bfc78fc96\jsoup-1.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.9.1_5cbc0d33755f9a596b4e2d7337f71c67ba81f73d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_01369563f4a3edf5ca5e71c6bca029d5308579a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_3b75a7e1aa6c177e2423eef9fc4f2e29feba2968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_8605313f4949c3c035ac02aa0b413ec6c49dc463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_bee947a8f8e8755c245472dd428124a8e80616a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_ce5656186b44fb61e8ea0f71b051c2c9033a4073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_58d5bbab7e179871387ac2b045dfe0b8b633f295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_4385e0abb04cf2eddbaed95f996246df789479c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_a728b7113bc1c68f63801f8488e82d1897922b92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_a372d1904dacbccaed6940f613c5dc56453d9683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_af2064daa968d0b2fb2564fd4ec569dc9cbd82e1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,48 +264,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_e2088a2adace658ba83102ec54907e57721fc77a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_4bea6a2e1384c76ac043d30f467ab09b7d37da43\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e29238eab8148b070b0f93dc923145711bc69fe7">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6709d247ee5e8d14483891519360fba258c2df9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
         <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_e01bbee98d347c98616c09ea1cc48710ae76f341\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_df5303cc4d2d816f48df626ac5fd8e6fffce13b4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -264,33 +309,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="04dcb3be7b9e8836dc516a87ffd0579f2d48ff4e">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e23d29dca8dbc0b317193549fcabb2b6b7507ef\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_7e6e76bdd67672d3a550739d404702d60116b4cb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Khanh\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.1\3dc0a3bea4f876c54846cd050e688f1bfc78fc96\jsoup-1.9.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.9.1_5cbc0d33755f9a596b4e2d7337f71c67ba81f73d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.ms-square\expandableTextView\0.1.4\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -306,24 +324,6 @@
         revision="23.0.1"
         sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
         <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_9170d20765bff7228e6fde77aefc72621aadd68f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_01369563f4a3edf5ca5e71c6bca029d5308579a7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_3b75a7e1aa6c177e2423eef9fc4f2e29feba2968\classes.dex" />
     </item>
 
 </items>

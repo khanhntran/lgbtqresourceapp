@@ -4,26 +4,6 @@
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\menu\\business.xml"
     },
     {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\policy.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\policy.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\home.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\suggestion.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\suggestion.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\event.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\event.xml"
-    },
-    {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map2.xml",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\menu\\map2.xml"
     },
@@ -32,20 +12,12 @@
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\menu\\suggestion.xml"
     },
     {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\business.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\business.xml"
-    },
-    {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\event.xml",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\menu\\event.xml"
     },
     {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\resource.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\resource.xml"
     },
     {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
@@ -58,9 +30,5 @@
     {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\policy.xml",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\menu\\policy.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\lgbtqresourceapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map2.xml",
-        "source": "D:\\GitHub\\lgbtqresourceapp\\app\\src\\main\\res\\menu\\map2.xml"
     }
 ]
