@@ -15,32 +15,32 @@
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:src="@drawable/rotunda_orange"
 
-        android:layout_marginBottom="71dp"
+        android:layout_marginBottom="30dp"
         android:layout_above="@+id/mapbutt"
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:background="#394264"
         android:textColor="#ffffff"
         android:text="Bathroom Map"
         android:id="@+id/mapbutt"
         android:drawableTop="@drawable/ic_place_w_48dp"
         android:onClick="openMap"
-        android:paddingTop="45dp"
+        android:paddingTop="15dp"
         android:layout_alignTop="@+id/eventbutt"
         android:layout_toStartOf="@+id/eventbutt"
         android:layout_marginRight="5dp"
         android:layout_marginBottom="0dp" />
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:background="#394264"
         android:textColor="#ffffff"
         android:text="Events"
@@ -49,11 +49,11 @@
         android:onClick="openEvents"
         android:layout_above="@+id/policybutt"
         android:layout_alignStart="@+id/policybutt"
-        android:paddingTop="45dp"/>
+        android:paddingTop="15dp"/>
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:background="#394264"
         android:textColor="#ffffff"
         android:text="Resources"
@@ -63,12 +63,12 @@
         android:layout_alignTop="@+id/eventbutt"
         android:layout_alignEnd="@+id/feedbutt"
         android:layout_toEndOf="@+id/eventbutt"
-        android:paddingTop="45dp"
+        android:paddingTop="15dp"
         android:layout_marginLeft="5dp" />
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:background="#394264"
         android:textColor="#ffffff"
         android:text="Businesses"
@@ -76,29 +76,29 @@
         android:drawableTop="@drawable/ic_business_w_48dp"
         android:onClick="openBusinesses"
         android:layout_toStartOf="@+id/policybutt"
-        android:paddingTop="45dp"
+        android:paddingTop="15dp"
         android:layout_marginRight="5dp"
         android:layout_marginBottom="68dp"
         android:layout_alignTop="@+id/policybutt" />
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:background="#394264"
         android:textColor="#ffffff"
         android:text="Know Your Rights"
         android:id="@+id/policybutt"
         android:drawableTop="@drawable/ic_verified_user_w_48dp"
         android:onClick="openPolicies"
-        android:paddingTop="45dp"
+        android:paddingTop="15dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="5dp"
         android:layout_marginBottom="68dp" />
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:background="#394264"
         android:textColor="#ffffff"
         android:text="Feedback"
@@ -106,7 +106,7 @@
         android:drawableTop="@drawable/ic_border_color_w_48dp"
         android:layout_toEndOf="@+id/policybutt"
         android:onClick="openFeedback"
-        android:paddingTop="45dp"
+        android:paddingTop="15dp"
         android:layout_marginLeft="5dp"
         android:layout_marginBottom="68dp"
         android:layout_alignTop="@+id/policybutt" />

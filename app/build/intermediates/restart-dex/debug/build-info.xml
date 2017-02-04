@@ -5,74 +5,33 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1935594802768831"
+    timestamp="1943850725383106"
     token="-1561596366176663532"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="453" />
+        duration="3125" />
     <task
         name="instant-run-dex"
-        duration="521" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="35" />
+        duration="1211" />
     <task
         name="verifier"
-        duration="3" />
+        duration="617" />
 
     <artifact
-        location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="1934537922846534"
+        timestamp="1943850725383106"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="1935544164135839"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1935594802768831"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

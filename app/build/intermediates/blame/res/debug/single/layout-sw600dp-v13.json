@@ -1,6 +1,94 @@
 [
     {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_business.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_business.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_event.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_event.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_resource.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_resource.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\content_feedback.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\content_feedback.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\content_resource.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\content_resource.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\content_policy.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\content_policy.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_business.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_business.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_policy.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_policy.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\content_home.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\content_home.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_home.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_home.xml"
+    },
+    {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_feedback.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\content_event.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\content_event.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_maps.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_maps.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_event.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_event.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\event_row.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\event_row.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_feedback.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_feedback.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_home.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_home.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_resource.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_resource.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\content_business.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\content_business.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\nav_header.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\app_bar_maps.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\app_bar_maps.xml"
+    },
+    {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_policy.xml",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\layout-sw600dp\\activity_policy.xml"
     }
 ]
