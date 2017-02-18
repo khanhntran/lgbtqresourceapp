@@ -33,6 +33,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     private KmlLayer bathroomLayer;
+    private int plzchange = 1;
 
     final private int REQUEST_CODE_ASK_PERMISSIONS = 123;
 

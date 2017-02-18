@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="dfbd7dd84f46e2c0e8df0ca96e773f9ef53e7c7c">
+        sha1="0fe0ed696d7dd502857b1eb9c8d6e4a36cda5c04">
         <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6709d247ee5e8d14483891519360fba258c2df9\classes.dex" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="1aede54f1f9dad65394aa493719b026e12add537">
+        sha1="73f4a5fcd06975b324daa95b0bf172544d564b5a">
         <dex dex="E:\Programming Projects\Java Projects\UVALGBTQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e23d29dca8dbc0b317193549fcabb2b6b7507ef\classes.dex" />
     </item>
     <item
