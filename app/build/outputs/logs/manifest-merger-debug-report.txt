@@ -80,7 +80,7 @@ MERGED from [com.google.maps.android:android-maps-utils:0.4.4] E:\Programming Pr
 	android:allowBackup
 		ADDED from E:\Programming Projects\Java Projects\UVALGBTQ\app\src\main\AndroidManifest.xml:18:9-35
 	android:icon
-		ADDED from E:\Programming Projects\Java Projects\UVALGBTQ\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from E:\Programming Projects\Java Projects\UVALGBTQ\app\src\main\AndroidManifest.xml:19:9-53
 	android:theme
 		ADDED from E:\Programming Projects\Java Projects\UVALGBTQ\app\src\main\AndroidManifest.xml:22:9-40
 activity#knt3tb.cs4720.uvalgbtq.HomeActivity

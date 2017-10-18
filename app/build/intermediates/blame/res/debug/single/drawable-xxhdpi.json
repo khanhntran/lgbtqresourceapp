@@ -288,6 +288,10 @@
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\drawable-xxhdpi\\ic_border_color_w_48dp.png"
     },
     {
+        "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher_rainbow.png",
+        "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_rainbow.png"
+    },
+    {
         "merged": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cast_off_light.png",
         "source": "E:\\Programming Projects\\Java Projects\\UVALGBTQ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
     },
